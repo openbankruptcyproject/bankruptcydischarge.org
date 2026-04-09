@@ -1,0 +1,411 @@
+# bankruptcydischarge.org -- Full Content
+
+This file contains the full text content of all pages on bankruptcydischarge.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Bankruptcy Discharge -- What It Means and How It Works
+Source: https://bankruptcydischarge.org/
+
+Bankruptcy Discharge
+
+The Legal Order That Eliminates Your Debt
+
+What Is a Bankruptcy Discharge?
+
+A bankruptcy discharge is a court order that permanently eliminates your personal obligation to pay certain debts. Once a debt is discharged, the creditor can never collect it from you -- no calls, no letters, no lawsuits, no garnishment. It is the legal fresh start that bankruptcy provides.
+
+When Do You Receive the Discharge?
+
+Chapter 7: Approximately 60 days after the 341 meeting of creditors (roughly 4 months after filing).
+
+Chapter 13: After completing all payments under the plan (3-5 years after filing).
+
+Chapter 11: Upon confirmation of the plan or completion of plan payments, depending on the type of plan.
+
+What Debts Are Discharged?
+
+Most unsecured debts: credit cards, medical bills, personal loans, past-due utility bills, lease obligations, deficiency balances from repossession or foreclosure, and most lawsuit judgments.
+
+What Debts Survive Bankruptcy?
+
+Some debts are non-dischargeable: most student loans (absent undue hardship), taxes from the last 3 years, child support and alimony, debts from fraud or willful injury, criminal fines and restitution, and DUI-related debts. Full list of non-dischargeable debts under Section 523(a).
+
+Nondischargeable debt guide.
+
+The Discharge Injunction (Section 524)
+
+The discharge order creates a permanent injunction under Section 524 of the Bankruptcy Code. Any creditor who attempts to collect a discharged debt is violating a federal court order and can be held in contempt. This includes sending bills, making phone calls, filing lawsuits, or reporting the debt as owing on credit reports. Section 524 explained.
+
+Discharge Denial and Revocation
+
+A discharge can be denied if: you committed fraud, concealed assets, destroyed records, or failed to complete the debtor education course. A discharge can be revoked within 1 year if obtained through fraud. Discharge bar periods.
+
+After the Discharge
+
+Check your credit reports -- all discharged debts should show $0 balance. Begin rebuilding credit with a secured card. Your obligation to pay discharged debts is permanently eliminated. Credit rebuilding guide.
+
+Frequently Asked Questions
+
+Is a bankruptcy discharge permanent?
+
+Yes. Once granted, the discharge permanently eliminates your obligation to pay the discharged debts, with very limited exceptions for fraud.
+
+Can a creditor still contact me after discharge?
+
+No. Any attempt to collect a discharged debt violates the discharge injunction and can result in contempt of court sanctions.
+
+Do I need to do anything after receiving my discharge?
+
+Check your credit reports to ensure discharged debts show $0 balance. Report any violations to your bankruptcy attorney or the court.
+
+What is a bankruptcy discharge?
+
+A bankruptcy discharge is a permanent court order under 11 U.S.C. Section 524 that eliminates your personal obligation to pay certain debts. After discharge, creditors cannot collect, sue, garnish wages, or contact you about discharged debts. It is the legal fresh start that bankruptcy provides.
+
+How long does it take to get a discharge?
+
+In Chapter 7, you typically receive a discharge approximately 60 days after the 341 meeting of creditors, which means roughly four months after filing. In Chapter 13, the discharge is entered after you complete all plan payments over three to five years.
+
+What debts are included in a bankruptcy discharge?
+
+Most unsecured debts are discharged including credit cards, medical bills, personal loans, utility arrears, and old lease obligations. Debts not discharged include most student loans, recent taxes, child support, alimony, criminal fines, and debts obtained through fraud under 11 U.S.C. Section 523.
+
+Can a creditor collect on a discharged debt?
+
+No. Any attempt to collect a discharged debt violates the discharge injunction under 11 U.S.C. Section 524 and can result in contempt of court sanctions, actual damages, attorney fees, and in some cases punitive damages. Report violations to the bankruptcy court immediately.
+
+What is the difference between discharge and dismissal?
+
+A discharge permanently eliminates your debts and is the successful outcome of bankruptcy. A dismissal ends the case without eliminating any debts, restoring all creditor collection rights. Dismissed cases provide no debt relief and the debtor still owes every dollar. The two outcomes are fundamentally different.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+524 Discharge Injunction
+
+Understanding Bankruptcy Discharge
+
+Discharge Injunction Explained
+
+Section 524 Discharge Injunction
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
+
+11 U.S.C. Section 523
+Cornell LII -- exceptions to discharge
+
+11 U.S.C. Section 524
+Cornell LII -- discharge injunction
+
+11 U.S.C. Section 727
+Cornell LII -- grounds for denying discharge
+
+Discharge in Bankruptcy
+USCourts.gov
+
+CFPB: What Debts Are Discharged?
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Discharge Research
+Google Scholar
+
+Related Guides
+
+When Bankruptcy Is Denied
+
+Why bankruptcy cases get denied
+
+bankruptcydenied.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Dismissal Rates
+
+Free bankruptcy information guide
+
+dismissalrate.org →
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+bankruptcydischarge.org
+GitHub Sponsors
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## How Long Between Bankruptcies? Filing Time Limits Explained -- Discharge
+Source: https://bankruptcydischarge.org/how-long-between-bankruptcies.html
+
+bankruptcydischarge.org
+☰
+
+Home
+Chapter 7 Discharge
+Chapter 13 Discharge
+FAQ
+
+How Long Between Bankruptcies? Filing Time Limits Explained
+
+How long must you wait between bankruptcy filings? Time limits for Chapter 7 after 7, Chapter 13 after 13, and every combination under 11 U.S.C. Section 1328(f) and 727.
+
+Home › How Long Between Bankruptcies? Filing Time Limits Explained
+
+Filing Intervals at a Glance
+
+How long you must wait between bankruptcy filings depends on which chapters you file:
+
+Previous FilingNew FilingWait PeriodStatute
+
+Chapter 7Chapter 78 years11 U.S.C. 727(a)(8)
+
+Chapter 7Chapter 134 years11 U.S.C. 1328(f)(1)
+
+Chapter 13Chapter 76 years (unless paid 100% or 70%+ in good faith)11 U.S.C. 727(a)(9)
+
+Chapter 13Chapter 132 years11 U.S.C. 1328(f)(2)
+
+Important: These periods run from the filing date of the prior case to the filing date of the new case, NOT from discharge date. However, you cannot receive a discharge in the new case until the applicable period from the prior discharge date has passed.
+
+Chapter 20 Strategy
+
+A "Chapter 20" is not an official chapter -- it is the strategy of filing Chapter 7 first (to eliminate unsecured debt) and then Chapter 13 (to deal with secured debt like a mortgage). This is legal but has important limitations:
+
+You can file Chapter 13 immediately after a Chapter 7 discharge
+
+You will NOT receive a discharge in the Chapter 13 if filed within 4 years of the Chapter 7 filing
+
+The Chapter 13 plan still provides structural benefits: automatic stay, lien stripping, mortgage cure -- even without a discharge
+
+Check Your Eligibility
+
+Use the free 1328(f) Discharge Screener to check whether you are eligible for a new bankruptcy discharge based on your prior filing dates.
+
+Bankruptcy Tools Network:
+
+Discharge Screener ·
+Research Platform ·
+Exemptions by State ·
+Keep Your Car ·
+Keep Your House ·
+Bankruptcy Cost ·
+File Without a Lawyer ·
+Rebuild Credit ·
+Buy a House After ·
+Buy a Car After
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Chapter 7 Discharge ·
+Chapter 13 Discharge ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Time Between Discharges -- Bankruptcy Filing Interval Rules
+Source: https://bankruptcydischarge.org/time-between-discharges.html
+
+bankruptcydischarge.org
+☰
+
+Home
+Chapter 7 Discharge
+Chapter 13 Discharge
+FAQ
+
+Time Between Discharges -- Bankruptcy Filing Interval Rules
+
+Complete guide to discharge-to-discharge timing rules. 8 years, 6 years, 4 years, and 2 years depending on chapter combination. Section 727 and 1328(f) explained.
+
+Home › Time Between Discharges -- Bankruptcy Filing Interval Rules
+
+Filing Intervals at a Glance
+
+How long you must wait between bankruptcy filings depends on which chapters you file:
+
+Previous FilingNew FilingWait PeriodStatute
+
+Chapter 7Chapter 78 years11 U.S.C. 727(a)(8)
+
+Chapter 7Chapter 134 years11 U.S.C. 1328(f)(1)
+
+Chapter 13Chapter 76 years (unless paid 100% or 70%+ in good faith)11 U.S.C. 727(a)(9)
+
+Chapter 13Chapter 132 years11 U.S.C. 1328(f)(2)
+
+Important: These periods run from the filing date of the prior case to the filing date of the new case, NOT from discharge date. However, you cannot receive a discharge in the new case until the applicable period from the prior discharge date has passed.
+
+Chapter 20 Strategy
+
+A "Chapter 20" is not an official chapter -- it is the strategy of filing Chapter 7 first (to eliminate unsecured debt) and then Chapter 13 (to deal with secured debt like a mortgage). This is legal but has important limitations:
+
+You can file Chapter 13 immediately after a Chapter 7 discharge
+
+You will NOT receive a discharge in the Chapter 13 if filed within 4 years of the Chapter 7 filing
+
+The Chapter 13 plan still provides structural benefits: automatic stay, lien stripping, mortgage cure -- even without a discharge
+
+Check Your Eligibility
+
+Use the free 1328(f) Discharge Screener to check whether you are eligible for a new bankruptcy discharge based on your prior filing dates.
+
+Bankruptcy Tools Network:
+
+Discharge Screener ·
+Research Platform ·
+Exemptions by State ·
+Keep Your Car ·
+Keep Your House ·
+Bankruptcy Cost ·
+File Without a Lawyer ·
+Rebuild Credit ·
+Buy a House After ·
+Buy a Car After
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Chapter 7 Discharge ·
+Chapter 13 Discharge ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).

@@ -1,0 +1,18 @@
+# Bankruptcy Discharge -- What It Means and How It Works
+> Complete guide to bankruptcy discharge. What debts are eliminated, when you receive it, what happens after, and the discharge injunction.
+
+## About
+bankruptcydischarge.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Bankruptcy Discharge -- What It Means and How It Works: https://bankruptcydischarge.org/
+- How Long Between Bankruptcies? Filing Time Limits Explained -- Discharge: https://bankruptcydischarge.org/how-long-between-bankruptcies.html
+- Time Between Discharges -- Bankruptcy Filing Interval Rules: https://bankruptcydischarge.org/time-between-discharges.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
