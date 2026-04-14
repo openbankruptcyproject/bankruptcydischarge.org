@@ -6,8 +6,82 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Bankruptcy Discharge -- What It Means and How It Works
+## How Long Between Bankruptcies? Filing Time Limits Explained - Discharge
+Source: https://bankruptcydischarge.org/how-long-between-bankruptcies.html
+
+bankruptcydischarge.org
+☰
+
+Home
+Chapter 7 Discharge
+Chapter 13 Discharge
+FAQ
+
+How Long Between Bankruptcies? Filing Time Limits Explained
+
+How long must you wait between bankruptcy filings? Time limits for Chapter 7 after 7, Chapter 13 after 13, and every combination under 11 U.S.C. Section 1328(f) and 727.
+
+Home › How Long Between Bankruptcies? Filing Time Limits Explained
+
+Filing Intervals at a Glance
+
+How long you must wait between bankruptcy filings depends on which chapters you file:
+
+Previous FilingNew FilingWait PeriodStatute
+
+Chapter 7Chapter 78 years11 U.S.C. 727(a)(8)
+
+Chapter 7Chapter 134 years11 U.S.C. 1328(f)(1)
+
+Chapter 13Chapter 76 years (unless paid 100% or 70%+ in good faith)11 U.S.C. 727(a)(9)
+
+Chapter 13Chapter 132 years11 U.S.C. 1328(f)(2)
+
+Important: These periods run from the filing date of the prior case to the filing date of the new case, NOT from discharge date. However, you cannot receive a discharge in the new case until the applicable period from the prior discharge date has passed.
+
+Chapter 20 Strategy
+
+A "Chapter 20" is not an official chapter - it is the strategy of filing Chapter 7 first (to eliminate unsecured debt) and then Chapter 13 (to deal with secured debt like a mortgage). This is legal but has important limitations:
+
+You can file Chapter 13 immediately after a Chapter 7 discharge
+
+You will NOT receive a discharge in the Chapter 13 if filed within 4 years of the Chapter 7 filing
+
+The Chapter 13 plan still provides structural benefits: automatic stay, lien stripping, mortgage cure - even without a discharge
+
+Check Your Eligibility
+
+Use the free 1328(f) Discharge Screener to check whether you are eligible for a new bankruptcy discharge based on your prior filing dates.
+
+Bankruptcy Tools Network:
+
+Discharge Screener ·
+Research Platform ·
+Exemptions by State ·
+Keep Your Car ·
+Keep Your House ·
+Bankruptcy Cost ·
+File Without a Lawyer ·
+Rebuild Credit ·
+Buy a House After ·
+Buy a Car After
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Chapter 7 Discharge ·
+Chapter 13 Discharge ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Bankruptcy Discharge - What It Means and How It Works
 Source: https://bankruptcydischarge.org/
+
+Skip to main content
 
 Bankruptcy Discharge
 
@@ -15,7 +89,7 @@ The Legal Order That Eliminates Your Debt
 
 What Is a Bankruptcy Discharge?
 
-A bankruptcy discharge is a court order that permanently eliminates your personal obligation to pay certain debts. Once a debt is discharged, the creditor can never collect it from you -- no calls, no letters, no lawsuits, no garnishment. It is the legal fresh start that bankruptcy provides.
+A bankruptcy discharge is a court order that permanently eliminates your personal obligation to pay certain debts. Once a debt is discharged, the creditor can never collect it from you - no calls, no letters, no lawsuits, no garnishment. It is the legal fresh start that bankruptcy provides.
 
 When Do You Receive the Discharge?
 
@@ -45,7 +119,7 @@ A discharge can be denied if: you committed fraud, concealed assets, destroyed r
 
 After the Discharge
 
-Check your credit reports -- all discharged debts should show $0 balance. Begin rebuilding credit with a secured card. Your obligation to pay discharged debts is permanently eliminated. Credit rebuilding guide.
+Check your credit reports - all discharged debts should show $0 balance. Begin rebuilding credit with a secured card. Your obligation to pay discharged debts is permanently eliminated. Credit rebuilding guide.
 
 Frequently Asked Questions
 
@@ -75,11 +149,11 @@ Most unsecured debts are discharged including credit cards, medical bills, perso
 
 Can a creditor collect on a discharged debt?
 
-No. Any attempt to collect a discharged debt violates the discharge injunction under 11 U.S.C. Section 524 and can result in contempt of court sanctions, actual damages, attorney fees, and in some cases punitive damages. Report violations to the bankruptcy court immediately.
+No. Any attempt to collect a discharged debt violates the discharge injunction under 11 U.S.C. Section 524 and can result in contempt of court sanctions, actual damages, attorney fees, and in some cases punitive damages. This includes zombie debt collectors who purchase old debts and attempt to collect on accounts that were already discharged. Report violations to the bankruptcy court immediately.
 
 What is the difference between discharge and dismissal?
 
-A discharge permanently eliminates your debts and is the successful outcome of bankruptcy. A dismissal ends the case without eliminating any debts, restoring all creditor collection rights. Dismissed cases provide no debt relief and the debtor still owes every dollar. The two outcomes are fundamentally different.
+A discharge permanently eliminates your debts and is the successful outcome of bankruptcy. A dismissal ends the case without eliminating any debts, restoring all creditor collection rights. Dismissed cases provide no debt relief and the debtor still owes every dollar. The two outcomes are fundamentally different. If you have received a discharge but later need to file again, see our guide on filing bankruptcy a second time.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -185,13 +259,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -255,6 +329,7 @@ File Without a Lawyer
 Rebuild Credit
 bankruptcydischarge.org
 GitHub Sponsors
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -266,81 +341,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
----
-
-## How Long Between Bankruptcies? Filing Time Limits Explained -- Discharge
-Source: https://bankruptcydischarge.org/how-long-between-bankruptcies.html
-
-bankruptcydischarge.org
-☰
-
-Home
-Chapter 7 Discharge
-Chapter 13 Discharge
-FAQ
-
-How Long Between Bankruptcies? Filing Time Limits Explained
-
-How long must you wait between bankruptcy filings? Time limits for Chapter 7 after 7, Chapter 13 after 13, and every combination under 11 U.S.C. Section 1328(f) and 727.
-
-Home › How Long Between Bankruptcies? Filing Time Limits Explained
-
-Filing Intervals at a Glance
-
-How long you must wait between bankruptcy filings depends on which chapters you file:
-
-Previous FilingNew FilingWait PeriodStatute
-
-Chapter 7Chapter 78 years11 U.S.C. 727(a)(8)
-
-Chapter 7Chapter 134 years11 U.S.C. 1328(f)(1)
-
-Chapter 13Chapter 76 years (unless paid 100% or 70%+ in good faith)11 U.S.C. 727(a)(9)
-
-Chapter 13Chapter 132 years11 U.S.C. 1328(f)(2)
-
-Important: These periods run from the filing date of the prior case to the filing date of the new case, NOT from discharge date. However, you cannot receive a discharge in the new case until the applicable period from the prior discharge date has passed.
-
-Chapter 20 Strategy
-
-A "Chapter 20" is not an official chapter -- it is the strategy of filing Chapter 7 first (to eliminate unsecured debt) and then Chapter 13 (to deal with secured debt like a mortgage). This is legal but has important limitations:
-
-You can file Chapter 13 immediately after a Chapter 7 discharge
-
-You will NOT receive a discharge in the Chapter 13 if filed within 4 years of the Chapter 7 filing
-
-The Chapter 13 plan still provides structural benefits: automatic stay, lien stripping, mortgage cure -- even without a discharge
-
-Check Your Eligibility
-
-Use the free 1328(f) Discharge Screener to check whether you are eligible for a new bankruptcy discharge based on your prior filing dates.
-
-Bankruptcy Tools Network:
-
-Discharge Screener ·
-Research Platform ·
-Exemptions by State ·
-Keep Your Car ·
-Keep Your House ·
-Bankruptcy Cost ·
-File Without a Lawyer ·
-Rebuild Credit ·
-Buy a House After ·
-Buy a Car After
-
-Free bankruptcy education. Not legal advice.
-
-Home ·
-Chapter 7 Discharge ·
-Chapter 13 Discharge ·
-FAQ
-
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Cited by the Federal Rules Committee (26-BK-3)
 
 ---
 
-## Time Between Discharges -- Bankruptcy Filing Interval Rules
+## Time Between Discharges - Bankruptcy Filing Interval Rules
 Source: https://bankruptcydischarge.org/time-between-discharges.html
 
 bankruptcydischarge.org
@@ -351,11 +356,11 @@ Chapter 7 Discharge
 Chapter 13 Discharge
 FAQ
 
-Time Between Discharges -- Bankruptcy Filing Interval Rules
+Time Between Discharges - Bankruptcy Filing Interval Rules
 
 Complete guide to discharge-to-discharge timing rules. 8 years, 6 years, 4 years, and 2 years depending on chapter combination. Section 727 and 1328(f) explained.
 
-Home › Time Between Discharges -- Bankruptcy Filing Interval Rules
+Home › Time Between Discharges - Bankruptcy Filing Interval Rules
 
 Filing Intervals at a Glance
 
@@ -375,13 +380,13 @@ Important: These periods run from the filing date of the prior case to the filin
 
 Chapter 20 Strategy
 
-A "Chapter 20" is not an official chapter -- it is the strategy of filing Chapter 7 first (to eliminate unsecured debt) and then Chapter 13 (to deal with secured debt like a mortgage). This is legal but has important limitations:
+A "Chapter 20" is not an official chapter - it is the strategy of filing Chapter 7 first (to eliminate unsecured debt) and then Chapter 13 (to deal with secured debt like a mortgage). This is legal but has important limitations:
 
 You can file Chapter 13 immediately after a Chapter 7 discharge
 
 You will NOT receive a discharge in the Chapter 13 if filed within 4 years of the Chapter 7 filing
 
-The Chapter 13 plan still provides structural benefits: automatic stay, lien stripping, mortgage cure -- even without a discharge
+The Chapter 13 plan still provides structural benefits: automatic stay, lien stripping, mortgage cure - even without a discharge
 
 Check Your Eligibility
 
@@ -409,3 +414,75 @@ FAQ
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Privacy Policy - bankruptcydischarge.org
+Source: https://bankruptcydischarge.org/privacy.html
+
+bankruptcydischarge.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
